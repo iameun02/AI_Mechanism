@@ -73,7 +73,7 @@ Vanishing Gradient 는 경사가 없다는 말로
      - 𝛄 (작아짐 ) / √𝐠 (커짐) : 결국 작아짐
      - 𝒘 = 𝒘 − 𝛄/ √𝐠 (𝞉 𝒆𝒓𝒓𝒐𝒓/ 𝞉 𝒘)
 
-#3-1 RMSProp : g 제곱합을 지수평균으로 대체한 것 <br>
+#3-1 RMSProp : Adaptive 모델에 g 제곱합을 지수평균으로 대체한 것 <br>
 
 
 #4. Adam 
