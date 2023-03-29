@@ -19,13 +19,13 @@ Vanishing Gradient 는 경사가 없다는 말로
 이는 다양한 activation 활용으로 발전하게 된다.
 
 [Tanh] 
-Activation Function : -1 ~ 1
-Derivative 0~1
+ - Activation Function : -1 ~ 1
+ - Derivative 0~1
  - 미분값이 0 이되면 똑같이 경사 없어지는 단점이 존재
 
 [ReLU]
-Activation Function : 0 ~ ∞
-Derivative 0~1
+  - Activation Function : 0 ~ ∞
+  - Derivative 0~1
   - 미분값이 0 이되면 똑같이 경사 없어지는 단점이 존재
   - 꺾인 지점에서 미분이 안되기 때문에 한계 존재
 
