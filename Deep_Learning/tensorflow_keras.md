@@ -1,4 +1,4 @@
-[Activation]
+<b>[Activation]</b>
 
 수치미분의 연산시간 문제를 해결하기 위해,
 미분을 Backpropagation으로 풀었을 때,
@@ -39,7 +39,7 @@ Vanishing Gradient 는 경사가 없다는 말로
 
 ------------------------------------
 
-[Optimization method_ 'solver'] 
+<b>[Optimization method_ 'solver'] </b>
 
 경사하강법에 기능을 추가적으로 더해줘서 학습률을 효과적으로 변경해보는 방법!
 
